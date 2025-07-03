@@ -29,7 +29,7 @@ This is a comprehensive SQL case study that analyzes hospital management data ac
 
 ## 🛠️ 1. Database Setup
 
-**🗃️ Create Database**: The project begins by creating a database named ``.
+**🗃️ Create Database**: The project begins by creating a database named `hospital_management`.
 
 ```sql
     CREATE DATABASE hospital_management;
