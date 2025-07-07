@@ -1,4 +1,3 @@
-# SQL-Hospital-Data-Analysis
 # 🏥 Hospital Data Analysis - SQL Project 📊
 
 This is a comprehensive SQL case study that analyzes hospital management data across multiple healthcare facilities. The project covers data analysis, patient management insights, and healthcare operational metrics using SQL.
